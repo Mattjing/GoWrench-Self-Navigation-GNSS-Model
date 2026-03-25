@@ -37,6 +37,24 @@ Purpose: browser-based viewing of GNSS data/paths.
 
 Use this folder when you want immediate visual feedback for generated or recorded GNSS traces.
 
+#### Google Maps API Integration (JavaScript)
+
+The web map is rendered using the Google Maps JavaScript API loaded in:
+
+- `GNSS_visualization/templates/index.html`
+	- `<script src="https://maps.googleapis.com/maps/api/js?key={{ api_key }}"></script>`
+	- `google.maps.Map(...)` is used to initialize the map.
+	- `google.maps.Marker(...)` is used to place the GNSS position marker.
+
+The API key value is injected by the backend from:
+
+- `GNSS_visualization/GNSS_rtv.py`
+
+Related Google Maps Directions API usage also appears in:
+
+- `pythonProject/google_path.py`
+- `matt_self_navigation/scripts/fake_gnss_path.py`
+
 ### `matt_self_navigation/`
 
 Purpose: core ROS package content for localization and navigation experiments.
