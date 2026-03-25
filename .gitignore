@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# ROS and logs
+logs/
+*.log
+*.bag
+
+# Backup and temp
+*.save
+*.tmp
+*.temp
+
+# Editor and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

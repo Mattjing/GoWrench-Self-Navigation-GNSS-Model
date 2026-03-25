@@ -1,0 +1,1605 @@
+header: 
+  seq: 761
+  stamp: 
+    secs: 1721767203
+    nsecs: 941329002
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564150645309
+longitude: -79.90292299028499
+altitude: 60.580900638514485
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 762
+  stamp: 
+    secs: 1721767204
+    nsecs:  50320386
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255641532534604
+longitude: -79.90292287414154
+altitude: 60.583739322769794
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 763
+  stamp: 
+    secs: 1721767204
+    nsecs: 140335559
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255641566267734
+longitude: -79.9029227499607
+altitude: 60.591262666756016
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 764
+  stamp: 
+    secs: 1721767204
+    nsecs: 243121147
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255641610410585
+longitude: -79.90292259469382
+altitude: 60.58605222269284
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 765
+  stamp: 
+    secs: 1721767204
+    nsecs: 341262578
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564166645118
+longitude: -79.90292263007606
+altitude: 60.60818240533552
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 766
+  stamp: 
+    secs: 1721767204
+    nsecs: 443451642
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564174459931
+longitude: -79.90292250440714
+altitude: 60.612040217228596
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 767
+  stamp: 
+    secs: 1721767204
+    nsecs: 540881872
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564180846349
+longitude: -79.90292225855356
+altitude: 60.60526529536916
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 768
+  stamp: 
+    secs: 1721767204
+    nsecs: 642754554
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564184173699
+longitude: -79.90292182598661
+altitude: 60.58595541459617
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 769
+  stamp: 
+    secs: 1721767204
+    nsecs: 738632678
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255641965578185
+longitude: -79.90292157084416
+altitude: 60.60293534343614
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 770
+  stamp: 
+    secs: 1721767204
+    nsecs: 838786363
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564204957502
+longitude: -79.90292063387744
+altitude: 60.55340312127428
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 771
+  stamp: 
+    secs: 1721767204
+    nsecs: 950654029
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564214211405
+longitude: -79.9029198197184
+altitude: 60.52138596938511
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 772
+  stamp: 
+    secs: 1721767205
+    nsecs:  43065071
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255642317820545
+longitude: -79.90291898977858
+altitude: 60.48984582082143
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 773
+  stamp: 
+    secs: 1721767205
+    nsecs: 142550706
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564189099641
+longitude: -79.90291821896045
+altitude: 60.39263985080723
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 774
+  stamp: 
+    secs: 1721767205
+    nsecs: 244068622
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255641508353655
+longitude: -79.90291771622147
+altitude: 60.32974804737936
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 775
+  stamp: 
+    secs: 1721767205
+    nsecs: 342319011
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255641091574425
+longitude: -79.9029171625231
+altitude: 60.25354082508082
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 776
+  stamp: 
+    secs: 1721767205
+    nsecs: 441702842
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564072992473
+longitude: -79.902916747414
+altitude: 60.19493975153004
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 777
+  stamp: 
+    secs: 1721767205
+    nsecs: 544426918
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25564037407682
+longitude: -79.90291648496132
+altitude: 60.15573803061294
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 778
+  stamp: 
+    secs: 1721767205
+    nsecs: 640462398
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255640046740275
+longitude: -79.90291608131787
+altitude: 60.102982118648704
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 779
+  stamp: 
+    secs: 1721767205
+    nsecs: 744644165
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255639839561184
+longitude: -79.90291563743847
+altitude: 60.02026125281162
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 780
+  stamp: 
+    secs: 1721767205
+    nsecs: 843468427
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255639715973736
+longitude: -79.90291508870209
+altitude: 59.92653610896776
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 781
+  stamp: 
+    secs: 1721767205
+    nsecs: 943811178
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.2556396254717
+longitude: -79.9029144693578
+altitude: 59.81972163801717
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 782
+  stamp: 
+    secs: 1721767206
+    nsecs:  53552865
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563954929322
+longitude: -79.90291389447042
+altitude: 59.713274961232166
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 783
+  stamp: 
+    secs: 1721767206
+    nsecs: 139665365
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563953002413
+longitude: -79.90291319455162
+altitude: 59.589171452261034
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 784
+  stamp: 
+    secs: 1721767206
+    nsecs: 248479604
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255639523500044
+longitude: -79.90291273688149
+altitude: 59.49255489768234
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 785
+  stamp: 
+    secs: 1721767206
+    nsecs: 342209100
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563953105
+longitude: -79.90291198311782
+altitude: 59.364031884804156
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 786
+  stamp: 
+    secs: 1721767206
+    nsecs: 447448492
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255639510743315
+longitude: -79.90291125432267
+altitude: 59.2377973230277
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 787
+  stamp: 
+    secs: 1721767206
+    nsecs: 543268203
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563942215839
+longitude: -79.90291056402623
+altitude: 59.12842216797983
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 788
+  stamp: 
+    secs: 1721767206
+    nsecs: 644282579
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255639391417795
+longitude: -79.90291008968045
+altitude: 59.0387260576798
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 789
+  stamp: 
+    secs: 1721767206
+    nsecs: 742212772
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563935939089
+longitude: -79.9029095618681
+altitude: 58.95135208373463
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 790
+  stamp: 
+    secs: 1721767206
+    nsecs: 842947244
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255639368736865
+longitude: -79.90290934214596
+altitude: 58.90236463552806
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 791
+  stamp: 
+    secs: 1721767206
+    nsecs: 945839643
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563933396755
+longitude: -79.90290895223954
+altitude: 58.81600683826294
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 792
+  stamp: 
+    secs: 1721767207
+    nsecs:  47000408
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563929468187
+longitude: -79.90290882821523
+altitude: 58.766510402570894
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 793
+  stamp: 
+    secs: 1721767207
+    nsecs: 141736745
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563927375993
+longitude: -79.90290872313768
+altitude: 58.70920755327041
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 794
+  stamp: 
+    secs: 1721767207
+    nsecs: 244106054
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563926241859
+longitude: -79.902908543153
+altitude: 58.6533658387327
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 795
+  stamp: 
+    secs: 1721767207
+    nsecs: 345175981
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563919594001
+longitude: -79.90290834450654
+altitude: 58.59680584113534
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 796
+  stamp: 
+    secs: 1721767207
+    nsecs: 445759534
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563915189556
+longitude: -79.90290801231797
+altitude: 58.52468705765949
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 797
+  stamp: 
+    secs: 1721767207
+    nsecs: 542001962
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563905734153
+longitude: -79.90290760808332
+altitude: 58.44207780316599
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 798
+  stamp: 
+    secs: 1721767207
+    nsecs: 643457889
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563900479708
+longitude: -79.90290741285713
+altitude: 58.382699860549415
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 799
+  stamp: 
+    secs: 1721767207
+    nsecs: 744770050
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563892613298
+longitude: -79.90290730082175
+altitude: 58.346332437559354
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 800
+  stamp: 
+    secs: 1721767207
+    nsecs: 840188741
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563885723652
+longitude: -79.90290685161811
+altitude: 58.27028346361868
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 801
+  stamp: 
+    secs: 1721767207
+    nsecs: 948061466
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563879242177
+longitude: -79.90290663584909
+altitude: 58.2285528788755
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 802
+  stamp: 
+    secs: 1721767208
+    nsecs:  48038959
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255638793031885
+longitude: -79.90290654597285
+altitude: 58.19164800383592
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 803
+  stamp: 
+    secs: 1721767208
+    nsecs: 141603231
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563872747365
+longitude: -79.90290607621755
+altitude: 58.11792676130052
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 804
+  stamp: 
+    secs: 1721767208
+    nsecs: 242877960
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255638774716736
+longitude: -79.90290588307151
+altitude: 58.06525063972723
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 805
+  stamp: 
+    secs: 1721767208
+    nsecs: 345192909
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255638753149746
+longitude: -79.90290540971085
+altitude: 57.98356775857682
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 806
+  stamp: 
+    secs: 1721767208
+    nsecs: 446783304
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563872284504
+longitude: -79.90290475323505
+altitude: 57.88159086452137
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 807
+  stamp: 
+    secs: 1721767208
+    nsecs: 542834520
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.2556386827988
+longitude: -79.90290416515217
+altitude: 57.77691467668578
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 808
+  stamp: 
+    secs: 1721767208
+    nsecs: 647080898
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563863473186
+longitude: -79.90290372042097
+altitude: 57.694967311116045
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 809
+  stamp: 
+    secs: 1721767208
+    nsecs: 743479013
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.2556385328498
+longitude: -79.90290320965373
+altitude: 57.61477089872882
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 810
+  stamp: 
+    secs: 1721767208
+    nsecs: 840166091
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255638435626715
+longitude: -79.90290285250624
+altitude: 57.5536688954569
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 811
+  stamp: 
+    secs: 1721767208
+    nsecs: 949651956
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563832033319
+longitude: -79.90290233619082
+altitude: 57.46664890384363
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 812
+  stamp: 
+    secs: 1721767209
+    nsecs:  45794725
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563822637439
+longitude: -79.90290214419993
+altitude: 57.41349035247372
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 813
+  stamp: 
+    secs: 1721767209
+    nsecs: 144664287
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563812816143
+longitude: -79.90290185334027
+altitude: 57.3575890736373
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 814
+  stamp: 
+    secs: 1721767209
+    nsecs: 242110490
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563800260908
+longitude: -79.90290157733207
+altitude: 57.307428020695404
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 815
+  stamp: 
+    secs: 1721767209
+    nsecs: 342084884
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637915851096
+longitude: -79.90290114471743
+altitude: 57.23999634641093
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 816
+  stamp: 
+    secs: 1721767209
+    nsecs: 446342468
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563787971177
+longitude: -79.90290115492417
+altitude: 57.212367209536595
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 817
+  stamp: 
+    secs: 1721767209
+    nsecs: 542804241
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637879660384
+longitude: -79.90290064373643
+altitude: 57.1387455289069
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 818
+  stamp: 
+    secs: 1721767209
+    nsecs: 645086765
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637898099174
+longitude: -79.90290032077844
+altitude: 57.07645279862706
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 819
+  stamp: 
+    secs: 1721767209
+    nsecs: 742343902
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563789991871
+longitude: -79.90290013442794
+altitude: 57.0372179546993
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 820
+  stamp: 
+    secs: 1721767209
+    nsecs: 841322660
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563792685126
+longitude: -79.90289996948955
+altitude: 57.001643944769576
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 821
+  stamp: 
+    secs: 1721767209
+    nsecs: 947346448
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563792212783
+longitude: -79.9028995224497
+altitude: 56.9309992021627
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 822
+  stamp: 
+    secs: 1721767210
+    nsecs:  50534725
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637951357166
+longitude: -79.90289906432591
+altitude: 56.853387208121525
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 823
+  stamp: 
+    secs: 1721767210
+    nsecs: 144863605
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563793020803
+longitude: -79.90289886750428
+altitude: 56.81232095035437
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 824
+  stamp: 
+    secs: 1721767210
+    nsecs: 242298364
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637924327694
+longitude: -79.9028986977869
+altitude: 56.78187493991353
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 825
+  stamp: 
+    secs: 1721767210
+    nsecs: 341689109
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563793666516
+longitude: -79.90289856458956
+altitude: 56.752585229075265
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 826
+  stamp: 
+    secs: 1721767210
+    nsecs: 449515104
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637789448315
+longitude: -79.90289920493339
+altitude: 56.835144635857404
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 827
+  stamp: 
+    secs: 1721767210
+    nsecs: 542210102
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637583227625
+longitude: -79.90289947740625
+altitude: 56.89173793708342
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 828
+  stamp: 
+    secs: 1721767210
+    nsecs: 641110181
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637436713776
+longitude: -79.90289987495468
+altitude: 56.950217561743706
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 829
+  stamp: 
+    secs: 1721767210
+    nsecs: 739239215
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637278748445
+longitude: -79.90290032165254
+altitude: 57.01013503069045
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 830
+  stamp: 
+    secs: 1721767210
+    nsecs: 845083475
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637137310494
+longitude: -79.90290072604232
+altitude: 57.073338251394006
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 831
+  stamp: 
+    secs: 1721767210
+    nsecs: 944658279
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563698620338
+longitude: -79.90290105185306
+altitude: 57.13490336944958
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 832
+  stamp: 
+    secs: 1721767211
+    nsecs:  46742677
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563685123196
+longitude: -79.90290139269275
+altitude: 57.18866102843309
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 833
+  stamp: 
+    secs: 1721767211
+    nsecs: 141899585
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563670952813
+longitude: -79.90290172868714
+altitude: 57.24109548456243
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 834
+  stamp: 
+    secs: 1721767211
+    nsecs: 241966247
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563661725747
+longitude: -79.90290222658855
+altitude: 57.31278618036746
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 835
+  stamp: 
+    secs: 1721767211
+    nsecs: 341789484
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563658041934
+longitude: -79.90290292497436
+altitude: 57.407303841513816
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 836
+  stamp: 
+    secs: 1721767211
+    nsecs: 439131021
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563648987031
+longitude: -79.90290352204444
+altitude: 57.49243414487213
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 837
+  stamp: 
+    secs: 1721767211
+    nsecs: 544746637
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563636719565
+longitude: -79.90290401712724
+altitude: 57.57434430088131
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 838
+  stamp: 
+    secs: 1721767211
+    nsecs: 644496917
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255636253900995
+longitude: -79.90290444176586
+altitude: 57.627777366045414
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 839
+  stamp: 
+    secs: 1721767211
+    nsecs: 741144180
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255636074940355
+longitude: -79.90290498647711
+altitude: 57.69164817426887
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 840
+  stamp: 
+    secs: 1721767211
+    nsecs: 841622591
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563591300659
+longitude: -79.90290558242613
+altitude: 57.76019476806815
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 841
+  stamp: 
+    secs: 1721767211
+    nsecs: 951024293
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563578836831
+longitude: -79.90290631783927
+altitude: 57.847512093534384
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 842
+  stamp: 
+    secs: 1721767212
+    nsecs:  45365810
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563563691627
+longitude: -79.9029071270758
+altitude: 57.94176403573132
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 843
+  stamp: 
+    secs: 1721767212
+    nsecs: 146673202
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563551165313
+longitude: -79.90290790233574
+altitude: 58.03241074170174
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 844
+  stamp: 
+    secs: 1721767212
+    nsecs: 236653804
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563534252006
+longitude: -79.90290868082324
+altitude: 58.12428121539104
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 845
+  stamp: 
+    secs: 1721767212
+    nsecs: 341698408
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255635121967735
+longitude: -79.90290930366879
+altitude: 58.18760323310053
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 846
+  stamp: 
+    secs: 1721767212
+    nsecs: 445495843
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563521549723
+longitude: -79.90290933839077
+altitude: 58.144391166120265
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 847
+  stamp: 
+    secs: 1721767212
+    nsecs: 544834852
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563529738432
+longitude: -79.90290928646245
+altitude: 58.09863390817973
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 848
+  stamp: 
+    secs: 1721767212
+    nsecs: 644862174
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563541851623
+longitude: -79.90290916699365
+altitude: 58.03449478628585
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 849
+  stamp: 
+    secs: 1721767212
+    nsecs: 742137432
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563555617777
+longitude: -79.902909371403
+altitude: 58.01125555244184
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 850
+  stamp: 
+    secs: 1721767212
+    nsecs: 843061208
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563570274268
+longitude: -79.90290947134783
+altitude: 57.97260359082912
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 851
+  stamp: 
+    secs: 1721767212
+    nsecs: 947959184
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.2556358533334
+longitude: -79.90290944729128
+altitude: 57.92105566476038
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 852
+  stamp: 
+    secs: 1721767213
+    nsecs:  52759885
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563601833977
+longitude: -79.90290955072467
+altitude: 57.896548821397
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 853
+  stamp: 
+    secs: 1721767213
+    nsecs: 145120620
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563623327643
+longitude: -79.90290958667639
+altitude: 57.85644507986994
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 854
+  stamp: 
+    secs: 1721767213
+    nsecs: 242039442
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255636382699834
+longitude: -79.90290944375462
+altitude: 57.79528399328679
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 855
+  stamp: 
+    secs: 1721767213
+    nsecs: 344599485
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563660181951
+longitude: -79.90290950046182
+altitude: 57.75750925742548
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 856
+  stamp: 
+    secs: 1721767213
+    nsecs: 443839788
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255636784890164
+longitude: -79.90290949568013
+altitude: 57.7119187557687
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 857
+  stamp: 
+    secs: 1721767213
+    nsecs: 544505119
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255636982346175
+longitude: -79.90290962042734
+altitude: 57.68129757428619
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 858
+  stamp: 
+    secs: 1721767213
+    nsecs: 646056413
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637211490566
+longitude: -79.90290968121747
+altitude: 57.645901154001535
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 859
+  stamp: 
+    secs: 1721767213
+    nsecs: 743639230
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563740423288
+longitude: -79.90291003091329
+altitude: 57.650511594843444
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 860
+  stamp: 
+    secs: 1721767213
+    nsecs: 847229242
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563760467606
+longitude: -79.90291026006024
+altitude: 57.639390455481156
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 861
+  stamp: 
+    secs: 1721767213
+    nsecs: 943634986
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637784612524
+longitude: -79.90291057814187
+altitude: 57.63342076762831
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 862
+  stamp: 
+    secs: 1721767214
+    nsecs:  45381784
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255637907513325
+longitude: -79.90291064492985
+altitude: 57.60189457227571
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 863
+  stamp: 
+    secs: 1721767214
+    nsecs: 142480611
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563798957303
+longitude: -79.90291076826568
+altitude: 57.577787511677215
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 864
+  stamp: 
+    secs: 1721767214
+    nsecs: 243093013
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255638100738565
+longitude: -79.9029108529136
+altitude: 57.54323041960844
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 865
+  stamp: 
+    secs: 1721767214
+    nsecs: 344066858
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563820488733
+longitude: -79.90291116240563
+altitude: 57.5304942315917
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 866
+  stamp: 
+    secs: 1721767214
+    nsecs: 441993236
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.25563830485467
+longitude: -79.90291141198674
+altitude: 57.51418268840322
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---
+header: 
+  seq: 867
+  stamp: 
+    secs: 1721767214
+    nsecs: 530778646
+  frame_id: "swiftnav_link"
+status: 
+  status: 1
+  service: 1
+latitude: 43.255638223621894
+longitude: -79.90291266064969
+altitude: 57.64063407739769
+position_covariance: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+position_covariance_type: 1
+---

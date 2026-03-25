@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="robot_localization" type="ekf_localization_node" name="ekf_localization_node" output="screen">
+    <param name="config_file" value="self_navigation/config/ekf.yaml"/>
+    <remap from="odometry/filtered" to="/odometry/filtered"/>
+  </node>
+</launch>

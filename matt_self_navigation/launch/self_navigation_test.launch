@@ -1,0 +1,30 @@
+<launch>
+  <!-- Robot State Publisher: Loads and publishes the robot model (URDF) -->
+  <param name="robot_description" command="$(find xacro)/xacro $(find mcm07_husky)/urdf/mcm07_customization.urdf.xacro"/>
+  
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+  <!-- Fake GNSS Data Publisher -->
+  <node name="fake_gnss_publisher" pkg="self_navigation" type="fake_gnss_publisher.py" output="screen">
+    <param name="frame_id" value="base_link"/>
+  </node>
+
+  <!-- Fake IMU Data Publisher -->
+  <node name="fake_imu_publisher" pkg="self_navigation" type="fake_imu_publisher.py" output="screen">
+    <param name="frame_id" value="base_link"/>
+  </node>
+
+  <!-- Robot Localization (EKF) Node -->
+  <include file="$(find self_navigation)/launch/ekf_localization.launch"/>
+
+  <!-- Move Base for Waypoint Navigation -->
+  <include file="$(find self_navigation)/launch/move_base.launch"/>
+
+  <!-- Static Transform Publisher for testing (if no real sensors) -->
+  <node pkg="tf2_ros" type="static_transform_publisher" name="map_to_odom" args="0 0 0 0 0 0 map odom"/>
+
+  <!-- RViz for Visualization -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find self_navigation)/rviz/self_navigation.rviz" required="true" />
+
+</launch>
+

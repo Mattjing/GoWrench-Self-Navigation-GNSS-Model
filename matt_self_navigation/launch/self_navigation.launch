@@ -1,0 +1,10 @@
+<launch>
+  <!-- Launch GNSS and IMU nodes -->
+  <include file="$(find piksi_multi_rtk_ros)/launch/piksi_multi_rover.launch"/>
+  
+  <!-- Launch robot_localization (EKF) -->
+  <include file="$(find self_navigation)/launch/ekf_localization.launch"/>
+
+  <!-- Launch move_base -->
+  <include file="$(find self_navigation)/launch/move_base.launch"/>
+</launch>

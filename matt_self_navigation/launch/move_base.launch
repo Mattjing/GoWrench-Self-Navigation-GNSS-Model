@@ -1,0 +1,8 @@
+<launch>
+  <!-- Start move_base node -->
+  <node pkg="move_base" type="move_base" name="move_base" output="screen">
+    <rosparam file="$(find self_navigation)/config/global_costmap.yaml" command="load" ns="global_costmap"/>
+    <rosparam file="$(find self_navigation)/config/local_costmap.yaml" command="load" ns="local_costmap"/>
+    <rosparam file="$(find self_navigation)/config/move_base.yaml" command="load"/>
+  </node>
+</launch>

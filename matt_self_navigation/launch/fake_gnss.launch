@@ -1,0 +1,5 @@
+<launch>
+  <env name="PYTHONPATH" value="/usr/lib/python3/dist-packages:/usr/local/lib/python3.8/dist-packages"/>
+  <node pkg="self_navigation" type="fake_gnss_publisher.py" name="fake_gnss_publisher" output="screen"/>
+</launch>
+

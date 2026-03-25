@@ -1,0 +1,1455 @@
+header: 
+  seq: 1
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25579
+longitude: -79.90174
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 2
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25616
+longitude: -79.9016
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 3
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25628
+longitude: -79.90154
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25639
+longitude: -79.90149
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25652
+longitude: -79.90144
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25662
+longitude: -79.90143
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25668
+longitude: -79.90142
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25676
+longitude: -79.90142
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25689
+longitude: -79.90143
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25721
+longitude: -79.9015
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25735
+longitude: -79.90158
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25755
+longitude: -79.90168
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25764
+longitude: -79.90173
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25775
+longitude: -79.90179
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25781
+longitude: -79.90183
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25786
+longitude: -79.90186
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25816
+longitude: -79.90203
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25849
+longitude: -79.9022
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25867
+longitude: -79.90229
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25869
+longitude: -79.9023
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25878
+longitude: -79.90234
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.2589
+longitude: -79.90237
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25908
+longitude: -79.90242
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25908
+longitude: -79.90242
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25899
+longitude: -79.90306
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25896
+longitude: -79.90326
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25892
+longitude: -79.90355
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25891
+longitude: -79.90362
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25883
+longitude: -79.90414
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25881
+longitude: -79.90431
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.2588
+longitude: -79.9044
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25875
+longitude: -79.9047
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25875
+longitude: -79.9047
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25884
+longitude: -79.90472
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25905
+longitude: -79.90478
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.25949
+longitude: -79.90491
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26022
+longitude: -79.90529
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26105
+longitude: -79.9056
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26105
+longitude: -79.9056
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26089
+longitude: -79.90594
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26087
+longitude: -79.90606
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26086
+longitude: -79.90614
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26086
+longitude: -79.9062
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26086
+longitude: -79.90626
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26086
+longitude: -79.90634
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26087
+longitude: -79.90642
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26094
+longitude: -79.90698
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26094
+longitude: -79.90698
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26129
+longitude: -79.90722
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26132
+longitude: -79.90714
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26132
+longitude: -79.90714
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26139
+longitude: -79.90716
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26135
+longitude: -79.90726
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26149
+longitude: -79.90736
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26156
+longitude: -79.90742
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.2616
+longitude: -79.90746
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26164
+longitude: -79.90749
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26166
+longitude: -79.90753
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26168
+longitude: -79.90757
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.2617
+longitude: -79.90763
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26172
+longitude: -79.9077
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26176
+longitude: -79.90785
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26186
+longitude: -79.90834
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26188
+longitude: -79.90845
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26189
+longitude: -79.90851
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26193
+longitude: -79.90907
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.262
+longitude: -79.91009
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26206
+longitude: -79.91112
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26212
+longitude: -79.91215
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26218
+longitude: -79.91318
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26222
+longitude: -79.91376
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26226
+longitude: -79.91443
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26227
+longitude: -79.91458
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.2623
+longitude: -79.91517
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26231
+longitude: -79.91534
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26232
+longitude: -79.91556
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.2624
+longitude: -79.91575
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26233
+longitude: -79.91576
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26233
+longitude: -79.9158
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26228
+longitude: -79.91591
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26228
+longitude: -79.91679
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26232
+longitude: -79.91691
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26227
+longitude: -79.91702
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26223
+longitude: -79.91731
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26224
+longitude: -79.91743
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26227
+longitude: -79.91761
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26226
+longitude: -79.9183
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26225
+longitude: -79.9188
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26225
+longitude: -79.9188
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26219
+longitude: -79.91879
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 91
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26219
+longitude: -79.91879
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 92
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26219
+longitude: -79.91896
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 93
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26226
+longitude: -79.91946
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 94
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26226
+longitude: -79.91957
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 95
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26225
+longitude: -79.91991
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 96
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26225
+longitude: -79.91991
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---
+header: 
+  seq: 97
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 43.26227
+longitude: -79.91991
+altitude: 10.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+---

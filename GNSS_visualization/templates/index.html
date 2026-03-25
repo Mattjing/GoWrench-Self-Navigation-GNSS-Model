@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GNSS Data on Google Maps</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{ api_key }}"></script>
+    <script>
+        function initMap() {
+            var location = { lat: {{ lat }}, lng: {{ lon }} };
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 15,
+                center: location
+            });
+            var marker = new google.maps.Marker({
+                position: location,
+                map: map
+            });
+        }
+    </script>
+</head>
+<body onload="initMap()">
+    <h1>GNSS Data on Google Maps</h1>
+    <div id="map" style="height:500px;width:100%;"></div>
+</body>
+</html>

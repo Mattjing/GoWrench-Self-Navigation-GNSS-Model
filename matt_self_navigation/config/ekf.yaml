@@ -1,0 +1,16 @@
+frequency: 30
+two_d_mode: true  # Set to true for outdoor, flat environments
+map_frame: map
+odom_frame: odom
+base_link_frame: base_link
+world_frame: map
+
+# Inputs
+odom0: odometry/filtered
+imu0: imu/data
+gps0: /piksi_rover/navsatfix_best_fix
+
+odom0_config: [false, false, false, true, true, true, false, false, false, false, false, false, false, false, false]
+imu0_config: [false, false, false, true, true, true, true, true, true, false, false, false, false, false, false]
+gps0_config: [true, true, false, false, false, false, false, false, false, false, false, false, false, false, false]
+
